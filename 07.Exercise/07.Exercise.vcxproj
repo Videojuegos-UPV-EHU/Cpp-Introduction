@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{117745C5-69B2-407F-9942-0DBB5444FEB7}</ProjectGuid>
+    <ProjectGuid>{535A9F1B-EFF6-4873-92FA-D1F212848553}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My06Arrays</RootNamespace>
+    <RootNamespace>My07Exercise</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -151,8 +151,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Functions\AuxFunctions.cpp" />
-    <ClCompile Include="Arrays.cpp" />
+    <ClCompile Include="Exercise.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
