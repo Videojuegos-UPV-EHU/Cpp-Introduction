@@ -29,7 +29,7 @@
     <ClCompile Include="Arrays.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Functions\AuxFunctions.cpp">
+    <ClCompile Include="..\05.Functions\AuxFunctions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
