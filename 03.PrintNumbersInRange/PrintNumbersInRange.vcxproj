@@ -23,7 +23,7 @@
     <ProjectGuid>{D1696EDC-087A-42D4-B81D-3D83C514D5CF}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>PrintNumbersInRange</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
     <ProjectName>03.PrintNumbersInRange</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

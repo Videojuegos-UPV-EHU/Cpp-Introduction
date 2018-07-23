@@ -23,7 +23,7 @@
     <ProjectGuid>{2EB707D5-07C4-4360-B497-0ADE2A44CB24}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Functions</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
     <ProjectName>05.Functions</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

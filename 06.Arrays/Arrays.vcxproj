@@ -23,7 +23,7 @@
     <ProjectGuid>{117745C5-69B2-407F-9942-0DBB5444FEB7}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>My06Arrays</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
     <ProjectName>06.Arrays</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

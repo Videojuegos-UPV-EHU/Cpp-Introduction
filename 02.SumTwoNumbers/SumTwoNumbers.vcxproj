@@ -23,7 +23,7 @@
     <ProjectGuid>{632136FE-88B2-4092-A10F-3C11C4667094}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>SumTwoNumbers</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
     <ProjectName>02.SumTwoNumbers</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
